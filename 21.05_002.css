@@ -1,0 +1,21 @@
+body{
+			background-image: url(2399911-t.gif);
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			color:red;
+			margin: 20px 30px 20px 30px;
+			font-family:Bradley Hand;
+			font-size: 18px;
+			text-shadow: 2px 2px 5px red;
+
+		}
+		@media screen and (min-width: 480px){
+			body{
+				font-size: 28px;
+
+			}
+		}
+		h4{
+			font-size: 2rem;
+		}

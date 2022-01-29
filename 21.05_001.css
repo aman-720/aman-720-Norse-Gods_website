@@ -1,0 +1,50 @@
+body{
+			margin-top: 5%;
+			margin-bottom:5%;
+			margin-left:5%;
+			margin-right: 5%; 
+			font-family: Papyrus;
+			background-image: url('loki.jpg');
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+			color: #669999;
+			text-align: justify;
+			font-size: 1.5vw;
+		}
+		aside {width: 40%
+			padding-left: 15px;
+			margin-left: 15px;
+			float: right;
+			font-style: italic;
+		}
+		@media screen and (min-width: 480){
+			video{
+				width: 100%;
+			}
+		}
+
+
+
+
+
+
+		img,video,audio{
+
+
+			margin-right: 10px;
+			margin-left:  10px;
+
+
+		}
+
+		{
+  background-color: pink;
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: lightgreen;
+    font-size: 16px
+  }
+}
